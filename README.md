@@ -1,7 +1,7 @@
 <h1 align="center"> Desafio Simples HTML e CSS </h1>
 
 <p align="center">
-Um desafio simples, promovido pela Rocketseat para ensino de tecnologias WEB. <br/>
+Um desafio simples, promovido pela Dio para ensino de tecnologias WEB. <br/>
 </p>
 
 <p align="center">
